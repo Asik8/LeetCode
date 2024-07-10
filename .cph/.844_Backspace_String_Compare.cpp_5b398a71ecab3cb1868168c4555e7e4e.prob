@@ -1,0 +1,1 @@
+{"name":"Local: 844_Backspace_String_Compare","url":"d:\\Codes\\LeetCode\\844_Backspace_String_Compare.cpp","tests":[{"id":1720612265423,"input":"y#fo##f\ny#f#o##f","output":"true"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Codes\\LeetCode\\844_Backspace_String_Compare.cpp","group":"local","local":true}
